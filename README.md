@@ -12,7 +12,7 @@
   <li><b>threading </b></li>
   <li><b>And basic knowledge of opencv and face detection: </b></li>  
 </ol>
-  <span> This software/code is provided by: <a href="cideduhub.blogspot.com">CID An Education Hub</a>
+  <span> This software/code is provided by: <a href="https://cideduhub.blogspot.com">CID An Education Hub</a>
     and got hint by Adrian Sir[pyimagesearch]</span>
   <div><i> Subscribe us on :<a href="https://www.youtube.com/c/cidaneducationhub">Youtube</a></a></div>
 
